@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Point {
     protected float x = 0.0f;
     protected float y = 0.0f;

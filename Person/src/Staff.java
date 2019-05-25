@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Staff extends Person {
 
     private String school;

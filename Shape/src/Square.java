@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Square extends Rectangle{
     private double side;
 

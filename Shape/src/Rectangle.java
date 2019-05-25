@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Rectangle extends Shape{
     protected double width = 1.0;
     protected double length = 1.0;

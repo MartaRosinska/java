@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Point3D extends Point2D {
     private float z = 0.0f;
 

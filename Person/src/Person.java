@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Person {
 
     private String name;

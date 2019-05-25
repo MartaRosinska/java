@@ -1,3 +1,4 @@
+// Marta Rosińska
 public class Shape {
     protected String color = "red";
     protected boolean filled = true;
